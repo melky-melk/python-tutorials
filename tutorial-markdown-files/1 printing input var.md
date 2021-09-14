@@ -109,12 +109,8 @@ sum = num_1 + num_2
 print("Sum is " + sum)
 
 sum = str(num_1 + num_2)
-
-print("Sum is " + sum + "!")
-
-`Sum is sum! which, is not helpful. it may be hard to understand but a lot of code just feels right, intutitively`
-
 sum = 24 contains the number 24 
+
 'sum' is simply a string containing nothing but string
 print("Sum is " + sum + "!")
 
